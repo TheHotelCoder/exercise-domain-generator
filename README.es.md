@@ -8,7 +8,7 @@ Encontrar un nombre de dominio es difícil, ¿por qué no automatizarlo? :)
 2. Crea un fichero `app.js` que va a contener tu codigo.
 3. Agrega tu codigo dentro del fichero.
 4. Puedes utilizar `console.log("Any string");` para imprimir un mensaje en la consola.
-5. Ejecuta tu codigo typeando en la linea de comandos: `$ node app.js`.
+5. Ejecuta tu codigo typeando en la linea de comandos: `$node app.js`.
 
 ## 📝 Instrucciones
 
